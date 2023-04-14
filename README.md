@@ -1,4 +1,3 @@
-<!-- ![](https://github.com/Prakash251299/bannerForGithub/blob/main/AI_ML_Banner.png) -->
 <img src="https://github.com/Prakash251299/bannerForGithub/blob/main/AI_ML_Banner.png" width = "1000" height = "200">
 <h1 align="center">Hi, I'm Prakash Pratap Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
@@ -7,15 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakash251299" alt="prakash251299" /></a> </p>
 
-- ?? I’m currently working on [File zipper project for compressing any file](https://github.com/Prakash251299/File_Zipper)
+- I’m currently working on [File zipper project for compressing any file](https://github.com/Prakash251299/File_Zipper)
 
-- ?? I’m currently learning *openCv,Tensorflow*
+- I’m currently learning *openCv,Tensorflow*
 
-- ????? All of my projects are available at [https://github.com/Prakash251299](https://github.com/Prakash251299)
+- All of my projects are available at [https://github.com/Prakash251299](https://github.com/Prakash251299)
 
-- ?? Ask me about *Flutter application development and data structures*
+- Ask me about *Flutter application development and data structures*
 
-- ?? How to reach me *prakashpratapsingh6@gmail.com*
+- How to reach me *prakashpratapsingh6@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
