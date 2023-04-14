@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Prakash251299/bannerForGithub/blob/main/AI_ML_Banner.png|width:400)<h1 align="center">Hi, I'm Prakash Pratap Singh</h1>
+![MasterHead](https://github.com/Prakash251299/bannerForGithub/blob/main/AI_ML_Banner.png =250x250)<h1 align="center">Hi, I'm Prakash Pratap Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash251299&label=Profile%20views&color=0e75b6&style=flat" alt="prakash251299" /> </p>
