@@ -1,5 +1,5 @@
 <!-- ![](https://github.com/Prakash251299/bannerForGithub/blob/main/AI_ML_Banner.png) -->
-<img src="https://github.com/Prakash251299/bannerForGithub/blob/main/AI_ML_Banner.png" width = "1000" height = "450">
+<img src="https://github.com/Prakash251299/bannerForGithub/blob/main/AI_ML_Banner.png" width = "1000" height = "200">
 <h1 align="center">Hi, I'm Prakash Pratap Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
