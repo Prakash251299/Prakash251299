@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakash251299" alt="prakash251299" /></a> </p>
 
-- I’m currently working on [File zipper project for compressing any file](https://github.com/Prakash251299/File_Zipper)
+- I’m currently working on [Linkify ( A music player cum social media app)](https://github.com/Prakash251299/Linkify)
 
 - I’m currently learning *openCv,Tensorflow*
 
