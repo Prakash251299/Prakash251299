@@ -1,4 +1,4 @@
-<img src="https://github.com/Prakash251299/bannerForGithub/blob/main/banner.jpeg" width = "1000" height = "200">
+<img src="https://github.com/Prakash251299/bannerForGithub/blob/main/Banner.jpg" width = "1000" height = "200">
 <h1 align="center">Hi, I'm Prakash Pratap Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
