@@ -12,7 +12,7 @@
 
 - All of my projects are available at [https://github.com/Prakash251299](https://github.com/Prakash251299)
 
-- Ask me about *Flutter application development and data structures*
+- Ask me about *Flutter application development, data structures, ssh tunnelling and cloud services (virtual machines)*
 
 - How to reach me *prakashpratapsingh6@gmail.com*
 
