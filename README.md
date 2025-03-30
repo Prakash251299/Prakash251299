@@ -10,7 +10,7 @@
 
 - I’m currently learning *Tensorflow, Deep Learning*
 
-- All of my projects are available at [https://github.com/Prakash251299](https://github.com/Prakash251299)
+- All of my projects are available at [https://github.com/Prakash251299](https://github.com/Prakash251299?tab=repositories)
 
 - Ask me about *Flutter application development, data structures, ssh tunnelling and cloud services (virtual machines)*
 
