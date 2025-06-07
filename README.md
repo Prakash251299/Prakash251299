@@ -4,17 +4,59 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash251299&label=Profile%20views&color=0e75b6&style=flat" alt="prakash251299" /> </p>
 
+### About Me
+
+- Software Engineer at **Tata Consultancy Services** working on **AWS cloud cost optimization**
+- Currently working on: [VibeLink](https://github.com/Prakash251299/vibelink) — A music-based social platform that connects users with similar music tastes using ML-based recommendations
+- Learning: **TensorFlow**, **Deep Learning**
+- Ask me about: *Flutter, DSA, Cloud VMs, SSH tunneling, System Design*
+- Reach me at: **prakashpratapsingh6@gmail.com**
+- All my projects: [GitHub Repositories](https://github.com/Prakash251299?tab=repositories)
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+`C++` `Python` `Java` `JavaScript` `Dart` `SQL`
+
+**Frameworks & Libraries:**  
+`Flutter` `Spring Boot` `Firebase` `Node.js` `OpenCV` `TensorFlow`
+
+**Tools & Platforms:**  
+`AWS` `Azure VM` `Docker` `GitHub Actions (CI/CD)` `Postman` `WebSocket`  
+`MySQL` `Firestore` `DynamoDB` `MongoDB` `MS SQL Server`
+
+**Other Expertise:**  
+`Linux` `Shell Scripting` `System Design` `Reverse SSH Tunneling` `Machine Learning (Recommendation systems)`
+
+---
+
+### 📌 Featured Projects
+
+[**VibeLink**](https://github.com/Prakash251299/VibeLink)  
+A music-based social platform recommending friends using ML-based genre matching.  
+- Optimized matching time by ~90% (O(n) → O(m))
+- Designed normalized Firestore schema to reduce data load
+- Added client-side caching for responsiveness
+
+[**Smart Event Scheduler**](https://github.com/Prakash251299/Smart-Event-Scheduler)  
+Serverless event manager using WhatsApp, Amazon Lex, AWS Lambda, S3 & EventBridge.  
+- Delivered automated alerts and reminders  
+- Led a team of 4 and solved critical integration failures pre-demo
+
+[**GPS Tracker**](https://github.com/Prakash251299/GpsTracker)  
+Real-time vehicle tracking system using Spring Boot + WebSockets  
+- Achieved <100ms latency across 10+ devices  
+- Docker-ready and extendable to VM-based deployment
+
+[**Spotify-dart Contribution**](https://github.com/rinukkusu/spotify-dart/issues/225)  
+Improved API performance and resolved architecture issues for Spotify Flutter SDK
+
+---
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakash251299" alt="prakash251299" /></a> </p>
-
-- I’m currently working on Gps_tracker ( A real time location tracking system for vehicles, products, etc.) [Github](https://github.com/Prakash251299/GpsTracker)
-
-- I’m currently learning *Tensorflow, Deep Learning*
-
-- All of my projects are available [here](https://github.com/Prakash251299?tab=repositories)
-
-- Ask me about *Flutter application development, data structures, ssh tunnelling and cloud services (virtual machines)*
-
-- How to reach me *prakashpratapsingh6@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
