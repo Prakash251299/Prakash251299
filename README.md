@@ -1,57 +1,117 @@
-<img src="https://github.com/Prakash251299/bannerForGithub/blob/main/Banner.jpg" width = "1000" height = "200">
-<h1 align="center">Hi, I'm Prakash Pratap Singh</h1>
-<h3 align="center">A passionate developer from India</h3>
+<img src="https://github.com/Prakash251299/bannerForGithub/blob/main/Banner.jpg" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash251299&label=Profile%20views&color=0e75b6&style=flat" alt="prakash251299" /> </p>
+<h1 align="center">Hi 👋, I'm Prakash Pratap Singh</h1>
+<h3 align="center">Backend Software Engineer | Scalable Systems | Cloud & Distributed Systems</h3>
 
-### About Me
-
-- Software Engineer at **Tata Consultancy Services** working on **AWS cloud cost optimization**
-- Currently working on: [VibeLink](https://github.com/Prakash251299/vibelink) — A music-based social platform that connects users with similar music tastes using ML-based recommendations
-- Learning: **TensorFlow**, **Deep Learning**
-- Ask me about: *Flutter, DSA, Cloud VMs, SSH tunneling, System Design*
-- Reach me at: **prakashpratapsingh6@gmail.com**
-- All my projects: [GitHub Repositories](https://github.com/Prakash251299?tab=repositories)
+<p align="center">
+  <a href="https://github.com/Prakash251299">
+    <img src="https://komarev.com/ghpvc/?username=prakash251299&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🧠 About Me
 
-**Languages:**  
-`C++` `Python` `Java` `JavaScript` `Dart` `SQL`
-
-**Frameworks & Libraries:**  
-`Flutter` `Spring Boot` `Firebase` `Node.js` `OpenCV` `TensorFlow`
-
-**Tools & Platforms:**  
-`AWS` `Azure VM` `Docker` `GitHub Actions (CI/CD)` `Postman` `WebSocket`  
-`MySQL` `Firestore` `DynamoDB` `MongoDB` `MS SQL Server`
-
-**Other Expertise:**  
-`Linux` `Shell Scripting` `System Design` `Reverse SSH Tunneling` `Machine Learning (Recommendation systems)`
+- 💼 Backend Software Engineer at **TCS**
+- ⚡ Building **high-scale microservices (100K+ daily requests)**
+- ☁️ Strong in **GCP, AWS, Distributed Systems & System Design**
+- 🎯 Focus: **Low-latency systems, real-time applications, recommendation engines**
+- 🧩 Solved **250+ DSA problems** (Top 1% LeetCode Contest Rank)
+- 🧠 Passionate about **scaling systems & solving complex backend problems**
 
 ---
 
-### 📌 Featured Projects
+## 🚀 What I Do (Impact Highlights)
 
-[**VibeLink**](https://github.com/Prakash251299/VibeLink)  
-A music-based social platform recommending friends using ML-based genre matching.  
-- Optimized matching time by ~90% (O(n) → O(m))
-- Designed normalized Firestore schema to reduce data load
-- Added client-side caching for responsiveness
+- ⚡ Built **Flask microservices** handling **100K+ requests/day**
+- 📉 Reduced API latency by **15–25% using Redis caching**
+- 🔄 Designed **event-driven pipelines (Pub/Sub, Datastream)**
+- ⚙️ Automated infra using **Terraform → 60% faster setup**
+- 📊 Built **BigQuery → Cloud SQL pipelines** for hybrid workloads
+- 🔗 Designed **backward-compatible APIs → 20% faster integrations**
 
-[**Smart Event Scheduler**](https://github.com/Prakash251299/Smart-Event-Scheduler)  
-Serverless event manager using WhatsApp, Amazon Lex, AWS Lambda, S3 & EventBridge.  
-- Delivered automated alerts and reminders  
-- Led a team of 4 and solved critical integration failures pre-demo
+---
 
-[**GPS Tracker**](https://github.com/Prakash251299/GpsTracker)  
-Real-time vehicle tracking system using Spring Boot + WebSockets  
-- Achieved <100ms latency across 10+ devices  
-- Docker-ready and extendable to VM-based deployment
+## 🛠️ Tech Stack
 
-[**Spotify-dart Contribution**](https://github.com/rinukkusu/spotify-dart/issues/225)  
-Improved API performance and resolved architecture issues for Spotify Flutter SDK
+### 💻 Languages
+`Python` `C++` `Java` `SQL` `JavaScript` `Dart`
+
+### ⚙️ Backend & Systems
+`Flask` `Spring Boot` `Microservices` `REST APIs` `WebSockets`  
+`Distributed Systems` `Caching` `Event-driven Architecture`
+
+### ☁️ Cloud & DevOps
+`GCP (Pub/Sub, Cloud SQL, BigQuery)` `AWS` `Azure`  
+`Terraform` `Docker` `CI/CD (GitHub Actions)`
+
+### 🗄️ Databases
+`PostgreSQL` `Redis` `BigQuery` `Firestore`
+
+### 📱 Other
+`Flutter` `Firebase` `Machine Learning` `OpenCV`
+
+---
+
+## 📌 Featured Projects
+
+### 🎵 VibeLink - Music-Based Social Recommendation System
+🔗 https://github.com/Prakash251299/VibeLink  
+
+- Built ML-based **user matching system**
+- ⚡ Reduced matching time by **90% (O(n) → O(m))**
+- 📊 Optimized database queries → **80% reduction in load**
+- 🚀 Supports **real-time personalized recommendations**
+
+---
+
+### 🌐 Remoteor - Secure Remote File Access System
+🔗 https://github.com/Prakash251299  
+
+- 🔐 Secure file sharing using **Reverse SSH tunneling**
+- ⚖️ Load-balanced across **Azure VMs (−35% peak load)**
+- ⚡ Achieved **<200ms latency across multiple devices**
+- 🔔 Permission-based access using **Firebase notifications**
+
+---
+
+### 📍 GPS Tracker - Real-Time Location Streaming
+🔗 https://github.com/Prakash251299  
+
+- ⚡ Built **WebSocket-based real-time tracking system**
+- 📡 Achieved **<100ms end-to-end latency**
+- 🧠 Designed for **high concurrency & scalability**
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Top 1%** - LeetCode Weekly Contest (Rank 424/41K+) 0  
+- 💡 Strong problem-solving with **400+ DSA questions solved**
+- 🔧 Open-source contributor (Spotify Dart improvements)
+
+---
+
+## 📚 Currently Exploring
+
+- 🤖 Deep Learning (TensorFlow)
+- ⚙️ Advanced Distributed Systems
+- 🧠 Scalable Recommendation Systems
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **prakashpratap2512@gmail.com**
+- 💼 LinkedIn: https://linkedin.com/in/prakash-pratap-singh
+- 💻 GitHub: https://github.com/Prakash251299
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy designing systems that **scale from 10 users → 100K users without breaking** 🚀
 
 ---
 
